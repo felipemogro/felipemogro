@@ -1,5 +1,5 @@
 # 👾 Hi my name is Felipe Mogro ⚡️
-I’m a passionate developer from Ecuador, now based in **Donostia, Spain**, crafting code and building awesome stuff. I specialize in **PHP** and **WordPress**, creating custom themes and plugins that make websites shine. I also know my way around **JavaScript**, adding interactivity and smooth functionality to projects. Beyond that, I’m skilled in **Drupal** for robust CMS solutions and love tinkering with **Bash scripting** to automate workflows.<br><br>Currently exploring new challenges and sharpening my skills while sipping some good coffee
+I’m a passionate developer from Ecuador, now based in **Barcelona, Spain**, crafting code and building awesome stuff. I specialize in **PHP** and **WordPress**, creating custom themes and plugins that make websites shine. I also know my way around **JavaScript**, adding interactivity and smooth functionality to projects. Beyond that, I’m skilled in **Drupal** for robust CMS solutions and love tinkering with **Bash scripting** to automate workflows.<br><br>Currently exploring new challenges and sharpening my skills while sipping some good coffee
 
 
 ## 🌐 Socials:
